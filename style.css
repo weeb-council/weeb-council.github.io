@@ -18,7 +18,7 @@ a:hover {
     text-decoration: underline;
 }
 
-a img {
+.ico {
     height: 10px;
     width: 10px;
 }
