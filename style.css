@@ -41,7 +41,7 @@ iframe {
     display: flex;
     align-items: baseline;
     justify-content: center;
-    position: absolute;
+    position: relative;
     bottom: 30px;
     width: 100%;
 }
