@@ -45,3 +45,7 @@ iframe {
     bottom: 30px;
     width: 100%;
 }
+
+.space-link {
+    margin-left: 30px!important;
+}
