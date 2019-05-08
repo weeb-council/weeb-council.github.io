@@ -59,11 +59,11 @@ iframe {
 }
 
 .space-link {
-    margin-left: 30px!important;
+    margin-left: 5px!important;
 }
 
 .anti-space-link {
-    margin-left: -30px!important;
+    margin-left: -5px!important;
 }
 
 .override {
