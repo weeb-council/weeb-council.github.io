@@ -48,6 +48,9 @@ iframe {
 
 #icon-box {
 	height: calc(100% - 20px);
+	border: solid white 2px;
+	border-radius: 10px;
+    padding: 8px 0px;
 }
 
 #icon-box img {
@@ -58,9 +61,6 @@ iframe {
 
 #icon-box a {
 	padding: 10px;
-	border: solid white 2px;
-	border-radius: 10px;
-	height: 100%;
 }
 
 .space-link {
