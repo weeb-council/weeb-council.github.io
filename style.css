@@ -59,20 +59,19 @@ iframe {
 	width: auto;
 }
 
-#icon-box a {
-	padding: 10px;
-	border-radius: 10px;
-}
-
-#icon-box a:hover {
-	background-color: rgba(255,255,255,0.3);
-	transition: background-color 0.2s ease-in-out;
-}
-
 .space-link {
     margin-left: 30px!important;
 }
 
 .anti-space-link {
     margin-left: -30px!important;
+}
+
+.link-box {
+	padding: 10px;
+}
+
+.link-box:hover {
+	background-color: rgba(255,255,255,0.3);
+	transition: background-color 0.2s ease-in-out;
 }
