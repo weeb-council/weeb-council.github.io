@@ -22,6 +22,12 @@ a:hover {
 a img {
 	height: 50px;
 	width: 50px;
+	padding: 20px;
+}
+
+a img:hover {
+	background-color: rgba(255,255,255,0.5);
+	transition: background-color 0.2s ease-in-out;
 }
 
 img {
@@ -63,4 +69,5 @@ iframe {
 	width: 100%!important;
 	max-width: 405px!important;
 	height: auto!important;
+	padding: 0px!important;
 }
