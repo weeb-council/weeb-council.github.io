@@ -69,6 +69,7 @@ iframe {
 
 .link-box {
 	padding: 10px;
+	height: 100%;
 }
 
 .link-box:hover {
