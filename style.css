@@ -19,17 +19,17 @@ a:hover {
     text-decoration: underline;
 }
 
+a img {
+	height: 30px;
+	width: 30px;
+}
+
 img {
     max-width: 405px;
 }
 
 iframe {
     max-width: 559px;
-}
-
-li {
-	list-style: none;
-	height: 100%;
 }
 
 #header {
@@ -51,39 +51,10 @@ li {
     width: 100%;
 }
 
-#icon-box {
-	height: calc(100% - 20px);
-	border: solid white 2px;
-	border-radius: 10px;
-    padding: 8px 0px;
-}
-
-#icon-box img {
-	max-height: 100%;
-	min-height: 100%;
-	width: auto;
-}
-
-#icon-box ul {
-	height: 100%;
-	display: inline;
-}
-
 .space-link {
     margin-left: 30px!important;
 }
 
 .anti-space-link {
     margin-left: -30px!important;
-}
-
-.link-box {
-	padding: 10px;
-	height: 100%;
-	display: inline;
-}
-
-.link-box:hover {
-	background-color: rgba(255,255,255,0.3);
-	transition: background-color 0.2s ease-in-out;
 }
