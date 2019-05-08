@@ -22,7 +22,8 @@ a:hover {
 a img {
 	height: 50px;
 	width: 50px;
-	padding: 20px;
+	padding: 15px;
+	border-radius: 10px;
 }
 
 a img:hover {
