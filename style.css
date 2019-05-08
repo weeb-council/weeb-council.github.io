@@ -29,7 +29,7 @@ iframe {
 
 #header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     height: 60px;
     background-color: rgba(255, 255, 255, 0.3);
