@@ -53,11 +53,6 @@ iframe {
     padding: 8px 0px;
 }
 
-#icon-box:hover {
-	background-color: rgba(255,255,255,0.3);
-	transition: background-color 0.2s ease-in-out;
-}
-
 #icon-box img {
 	max-height: 100%;
 	min-height: 100%;
@@ -66,6 +61,12 @@ iframe {
 
 #icon-box a {
 	padding: 10px;
+	border-radius: 10px;
+}
+
+#icon-box a:hover {
+	background-color: rgba(255,255,255,0.3);
+	transition: background-color 0.2s ease-in-out;
 }
 
 .space-link {
